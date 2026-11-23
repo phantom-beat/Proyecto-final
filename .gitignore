@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Datos y modelos (pesados: se guardan en Google Drive, no en el repositorio)
+datos/
+dataset_personalizado/
+*.zip
+checkpoints/
+*.weights.h5
+*.keras
+*.h5
+
+# Salidas locales de inferencia
+salidas/
+
+# Sistema
+.DS_Store
+Thumbs.db

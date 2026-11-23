@@ -1,0 +1,10 @@
+# Versiones usadas en Google Colab (GPU T4)
+tensorflow>=2.16
+keras>=3.0
+numpy
+pandas
+matplotlib
+pillow
+# Solo para la métrica perceptual LPIPS (evaluación)
+torch
+lpips
