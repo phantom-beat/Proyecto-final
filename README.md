@@ -11,7 +11,7 @@ Implementación desde cero, en TensorFlow/Keras, de una red generativa antagóni
 | Nombre | Código | Correo |
 |---|---|---|
 | José David Aguirre Salinas | 2230633 | jose.aguirre@uao.edu.co |
-| Gabriel Armando Gil Grueso | 2230206 | gabriel.gil@uao.edu.co |
+| Gabriel Armando Gil Grueso | 2230206 | ga66737756@gmail.com |
 
 ## Resultados
 
